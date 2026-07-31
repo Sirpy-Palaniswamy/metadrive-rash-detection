@@ -123,8 +123,8 @@ python build_notebook.py
 |-- build_notebook.py           Generates dataset_exploration.ipynb via nbformat
 |-- generate_docs_html.py       Converts .md docs to print-ready HTML
 |-- dataset_exploration.ipynb   Interactive dataset explorer (34 cells)
-|-- PRESENTATION_professor.md   13-slide professor verification deck
-|-- PROGRESS_REPORT.md          17-section detailed progress report
+|-- Thesis_Abstract.pdf         2 Page abstract, summarizing the dissertation
+|-- Thesis.pdf                  Research Dissertation, credited with help of Kyutech Professors.
 |-- requirements.txt
 |
 +-- models/
