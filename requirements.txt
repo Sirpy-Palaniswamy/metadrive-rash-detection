@@ -1,0 +1,24 @@
+# Core simulation
+metadrive-simulator==0.4.3
+
+# Deep learning (CPU build -- remove +cpu suffix if you have CUDA)
+torch==2.4.1
+torchvision==0.19.1
+
+# Numerics and data
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# Visualisation
+matplotlib>=3.7
+Pillow>=10.0
+
+# Notebook
+jupyter
+ipykernel
+ipython
+nbformat>=5.9
+
+# Documentation generation
+markdown>=3.5
